@@ -1,2 +1,2 @@
 # Databases-and-SQL
- Working with multiple real world datasets for the city of Chicago.
+ Working with a real world data-set using SQL and Python.
