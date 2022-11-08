@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 Using this Python notebook you will:
 
 Understand three Chicago datasets
